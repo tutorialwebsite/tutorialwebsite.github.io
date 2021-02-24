@@ -3,10 +3,10 @@
   <channel>
     <title>pejuang rupiah</title>
     <description>pejuang rupiah berita blogger tentang kumpulan berbagai informasi terbaru dan berita onlien berbagai sumber.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2021 20:08:49 +0700</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2021 20:08:49 +0700</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Feb 2021 20:11:59 +0700</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2021 20:11:59 +0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
   </channel>

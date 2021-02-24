@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/Contact%20Us</loc>
+<loc>/blog/Contact%20Us</loc>
 </url>
 <url>
-<loc>/about</loc>
+<loc>/blog/about</loc>
 </url>
 <url>
-<loc>/categories</loc>
+<loc>/blog/categories</loc>
 </url>
 <url>
-<loc>/disclaimer</loc>
+<loc>/blog/disclaimer</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc>/privacy%20policy</loc>
+<loc>/blog/privacy%20policy</loc>
 </url>
 <url>
-<loc>/tags</loc>
+<loc>/blog/tags</loc>
 </url>
 <url>
-<loc>/terms%20and%20conditions</loc>
+<loc>/blog/terms%20and%20conditions</loc>
 </url>
 </urlset>
