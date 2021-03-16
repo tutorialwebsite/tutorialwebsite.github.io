@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hello word
-author: postkomik
+author: bagas
 categories: coba
 tags: coba
 image: https://1.bp.blogspot.com/-naqUfFcLJdY/YDOM9Usn9nI/AAAAAAAAPJc/nf2lyvwkQ8A8Jqi7YbMi6O6pcLigthBjACLcBGAsYHQ/w157/komik.png
