@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malam yang sunyi
-author: Bagas
+author: bagas
 categories:
   - Puisi
 tags: pelajar
