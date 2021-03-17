@@ -5,8 +5,8 @@ description: "deskripsi situs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
-disqus: 'postkomik-github-1'
+google_analytics: ''
+disqus: ''
 
 include: ["_pages"]
 permalink: /:title/
