@@ -1,26 +1,19 @@
 # Site
-name: "namasitus"
-title: "judulsitur"
-description: "deskripsi situs"
+name: "tutorial website"
+title: "tutorial website"
+description: "Ini adalah kumpulan tutorial website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: ''
-google_analytics: ''
-disqus: ''
+google_analytics: 'UA-178648244-4'
+disqus: 'tutorialwebsite-1'
 
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  nama:
-    name: Nama
-    display_name: Nama
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: isi email
-    web: isi web
-    twitter: https://twitter.com/isi id
-    description: "isi tentang kamu."
+  
   john:
     name: John
     display_name: John    
@@ -30,15 +23,16 @@ authors:
     web: https://postkomik.github.io
     twitter: https://twitter.com/OnlienPejuang
     description: "Belajar menjadi baik dan pantang menyerah "
-  nama author:
-    name: Nama author
-    display_name: Nama author
+    
+  kaisan:
+    name: Kaisan
+    display_name: Kaisan
     avatar: 'assets/images/postkomik.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: Ahmadalwy@gmail.com
-    web: 
+    email: kmkaisan1@gmail.com
+    web: https://tutorialwebsite.github.io/
     twitter: https://twitter.com/
-    description: "Belajar membuat website"
+    description: "gw ganteng jadi jangan kaget dahulu kalo naksir yah"
     
 
 # Plugins
