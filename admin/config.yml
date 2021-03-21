@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: postblogger/blog
+  repo: tutorialwebsite/tutorialwebsite.github.io
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
