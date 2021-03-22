@@ -5,7 +5,6 @@ description: "Ini adalah kumpulan tutorial website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: ''
-url: 'https://tutorialwebsite.netlify.app/'
 google_analytics: 'UA-178648244-4'
 disqus: 'tutorialwebsite-1'
 
